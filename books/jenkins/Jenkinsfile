@@ -10,9 +10,9 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "youruser-books-dev"
-        STAGE_PROJECT = "youruser-books-stage"
-        APP_GIT_URL = "https://github.com/youruser/DO288-apps"
+        DEV_PROJECT = "nipakors-books-dev"
+        STAGE_PROJECT = "nipakors-books-stage"
+        APP_GIT_URL = "https://github.com/nipakorn/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.na45.prod.nextcle.com/repository/nodejs"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
